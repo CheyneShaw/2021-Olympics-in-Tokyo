@@ -1,2 +1,2 @@
-# Azure Databricks Code
-* Olympics in Tokyo Project
+# Olympics in Tokyo
+* Azure Databricks Code
